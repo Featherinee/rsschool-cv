@@ -16,3 +16,18 @@ ___
 * Css
 * JavaScript
 * Git
+
+## Code Examples
+```
+function randomNum(g) {
+  let result;
+  if (g > 0) {
+    result = 'positive';
+  } else {
+    result = 'NOT positive';
+  }
+  return result;
+}
+
+console.log(randomNum(-5));
+```
