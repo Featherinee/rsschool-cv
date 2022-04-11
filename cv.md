@@ -31,3 +31,21 @@ function randomNum(g) {
 
 console.log(randomNum(-5));
 ```
+
+## Experience
+
+Not have any yet
+
+___
+
+## Education
+Georgian university - law for one year
+GTU - computer science for two years
+Self study
+
+___
+
+## Languages
+* Georgian - native
+* English - B2+
+* Russian - B2+
