@@ -1,1 +1,1 @@
-# rsschool-cv
+https://featherinee.github.io/rsschool-cv/cv
