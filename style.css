@@ -1,0 +1,44 @@
+body {
+  max-width: 980px;
+  margin: 0 auto;
+  background-color: antiquewhite;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.header-image {
+  width: 200px;
+}
+
+.navigation-list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+.navigation-list a {
+  text-decoration: none;
+}
+
+pre {
+  background: rgb(239, 239, 247);
+  margin-top: 20px;
+  line-height: 30px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+}
+
+.rs-logo {
+  width: 150px;
+}

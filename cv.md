@@ -1,0 +1,51 @@
+# Nika Grdzelishvili
+___
+
+## Contact Info
+
+* Mobile: +995 598 97 00 37
+* Mail:   Grdzelishvilinika97@gmail.com
+
+## Summary
+After reading some sci-fi books I got interested in learning coding in general, I am eager to learn more and work with a group
+___
+
+## Skills
+
+* Html
+* Css
+* JavaScript
+* Git
+
+## Code Examples
+```
+function randomNum(g) {
+  let result;
+  if (g > 0) {
+    result = 'positive';
+  } else {
+    result = 'NOT positive';
+  }
+  return result;
+}
+
+console.log(randomNum(-5));
+```
+
+## Experience
+
+Not have any yet
+
+___
+
+## Education
+Georgian university - law for one year
+GTU - computer science for two years
+Self study
+
+___
+
+## Languages
+* Georgian - native
+* English - B2+
+* Russian - B2+
