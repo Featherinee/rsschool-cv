@@ -1,1 +1,1 @@
-https://featherinee.github.io/rsschool-cv/cv
+https://featherinee.github.io/rsschool-cv
